@@ -2,8 +2,8 @@
   "font": "boe",
   "titol": "BOE: convocatòries de filologia i llengua (territoris de parla catalana i Estat)",
   "descripcio": "Oposicions i concursos del BOE (secció II.B) filtrats per paraules clau. Termini estimat.",
-  "actualitzat": "2026-11-18T02:12:49+00:00",
-  "total": 3,
+  "actualitzat": "2026-11-18T11:53:37+00:00",
+  "total": 4,
   "convocatories": [
     {
       "id": "BOE-A-2026-24090",
@@ -19,6 +19,21 @@
       "termini_estimat": true,
       "reservada": false,
       "motiu": "Escala Técnica Superior de Lingüística"
+    },
+    {
+      "id": "BOE-A-2026-24178",
+      "font": "BOE",
+      "titol": "Resolución de 11 de noviembre de 2026, de la Universidad Jaume I, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Media de Asesoramiento Lingüístico.",
+      "organisme": "UNIVERSIDADES",
+      "data_publicacio": "2026-11-18",
+      "font_publicacio": "BOE",
+      "enllac": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24178",
+      "pdf": "https://www.boe.es/boe/dias/2026/11/18/pdfs/BOE-A-2026-24178.pdf",
+      "termini_text": "plazo de presentación de solicitudes es de diez días hábiles",
+      "data_fi": "2026-12-02",
+      "termini_estimat": true,
+      "reservada": false,
+      "motiu": "Asesoramiento Lingüístic"
     },
     {
       "id": "BOE-A-2026-23472",

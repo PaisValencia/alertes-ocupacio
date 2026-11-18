@@ -1,5 +1,5 @@
 {
-  "actualitzat": "2026-11-18T02:12:41+00:00",
+  "actualitzat": "2026-11-18T11:53:25+00:00",
   "fonts": {
     "cido": {
       "nom": "CIDO, Catalunya (API oficial)",
@@ -10,14 +10,14 @@
     "boe": {
       "nom": "BOE (API oficial)",
       "ok": true,
-      "total": 3,
+      "total": 4,
       "error": null
     },
     "bop_valencia": {
       "nom": "BOP de València (experimental)",
       "ok": false,
       "total": 0,
-      "error": "RuntimeError: robots.txt no permet llegir bop.dival.es (es publica l'historial anterior)"
+      "error": "RuntimeError: TimeoutError: Locator.click: Timeout 30000ms exceeded. (es publica l'historial anterior)"
     }
   }
 }
