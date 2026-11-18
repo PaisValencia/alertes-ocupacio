@@ -42,12 +42,20 @@ def _anuncis_del_dia() -> list[dict]:
                 vistos.add(registre)
                 titol = comu.normalitza(trossos[i - 1][-600:])
                 anuncis.append({"registre": registre, "text": titol})
-            seguent = pag.locator(".ui-paginator-next:not(.ui-state-disabled)").first
-            if seguent.count() == 0:
+            # Pàgina següent. Si el botó no respon, ens quedem amb el que ja s'ha llegit.
+            try:
+                seguent = pag.locator(".ui-paginator-next:not(.ui-state-disabled)").first
+                if seguent.count() == 0 or not seguent.is_visible():
+                    break
+                seguent.click(timeout=10_000)
+                pag.wait_for_load_state("networkidle", timeout=30_000)
+            except Exception as exc:
+                print(f"BOP València: no es pot passar de pàgina ({exc.__class__.__name__}); es continua amb {len(anuncis)} anuncis.")
                 break
-            seguent.click()
-            pag.wait_for_load_state("networkidle")
         nav.close()
+    if not anuncis:
+        raise RuntimeError("no s'ha trobat cap anunci amb «Núm. registre» a la pàgina (potser ha canviat la web)")
+    print(f"BOP València: {len(anuncis)} anuncis llegits")
     return anuncis
 
 
