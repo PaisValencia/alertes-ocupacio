@@ -1,0 +1,23 @@
+{
+  "actualitzat": "2026-11-18T02:12:41+00:00",
+  "fonts": {
+    "cido": {
+      "nom": "CIDO, Catalunya (API oficial)",
+      "ok": true,
+      "total": 4,
+      "error": null
+    },
+    "boe": {
+      "nom": "BOE (API oficial)",
+      "ok": true,
+      "total": 3,
+      "error": null
+    },
+    "bop_valencia": {
+      "nom": "BOP de València (experimental)",
+      "ok": false,
+      "total": 0,
+      "error": "RuntimeError: robots.txt no permet llegir bop.dival.es (es publica l'historial anterior)"
+    }
+  }
+}
