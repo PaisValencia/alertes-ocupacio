@@ -1,5 +1,5 @@
 {
-  "actualitzat": "2026-11-18T11:53:25+00:00",
+  "actualitzat": "2026-11-18T11:58:33+00:00",
   "fonts": {
     "cido": {
       "nom": "CIDO, Catalunya (API oficial)",
@@ -15,9 +15,9 @@
     },
     "bop_valencia": {
       "nom": "BOP de València (experimental)",
-      "ok": false,
+      "ok": true,
       "total": 0,
-      "error": "RuntimeError: TimeoutError: Locator.click: Timeout 30000ms exceeded. (es publica l'historial anterior)"
+      "error": null
     }
   }
 }
