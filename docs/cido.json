@@ -2,7 +2,7 @@
   "font": "cido",
   "titol": "CIDO: convocatòries de filologia i llengua a Catalunya",
   "descripcio": "Processos selectius i borses amb el termini obert (API oficial del CIDO, Diputació de Barcelona).",
-  "actualitzat": "2026-11-19T05:57:24+00:00",
+  "actualitzat": "2026-11-20T05:58:12+00:00",
   "total": 6,
   "convocatories": [
     {
@@ -71,7 +71,7 @@
     {
       "id": "CIDO-22517200",
       "font": "CIDO",
-      "titol": "136 places de Cos de professors d'ensenyament secundari, especialitat Llengua catalana i literatura (LC)",
+      "titol": "138 places de Cos de professors d'ensenyament secundari, especialitat Llengua catalana i literatura (LC)",
       "organisme": "Generalitat de Catalunya - Departament d'Educació i Formació Professional",
       "data_publicacio": "2026-11-18",
       "font_publicacio": "CIDO (DOGC/BOE/BOP)",

@@ -2,7 +2,7 @@
   "font": "totes",
   "titol": "Alertes ocupació filologia: totes les fonts",
   "descripcio": "BOE, CIDO i BOP de València: convocatòries de filologia i llengua amb el termini obert.",
-  "actualitzat": "2026-11-19T05:57:49+00:00",
+  "actualitzat": "2026-11-20T05:58:30+00:00",
   "total": 10,
   "convocatories": [
     {
@@ -86,7 +86,7 @@
     {
       "id": "CIDO-22517200",
       "font": "CIDO",
-      "titol": "136 places de Cos de professors d'ensenyament secundari, especialitat Llengua catalana i literatura (LC)",
+      "titol": "138 places de Cos de professors d'ensenyament secundari, especialitat Llengua catalana i literatura (LC)",
       "organisme": "Generalitat de Catalunya - Departament d'Educació i Formació Professional",
       "data_publicacio": "2026-11-18",
       "font_publicacio": "CIDO (DOGC/BOE/BOP)",
