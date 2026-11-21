@@ -2,8 +2,8 @@
   "font": "totes",
   "titol": "Alertes ocupació filologia: totes les fonts",
   "descripcio": "BOE, CIDO i BOP de València: convocatòries de filologia i llengua amb el termini obert.",
-  "actualitzat": "2026-11-20T05:58:30+00:00",
-  "total": 10,
+  "actualitzat": "2026-11-21T05:51:58+00:00",
+  "total": 11,
   "convocatories": [
     {
       "id": "CIDO-22387342",
@@ -43,6 +43,27 @@
       "altres_requisits": "Nivell C2 de català",
       "termini_text": "fins al 2026-11-26",
       "data_fi": "2026-11-26",
+      "termini_estimat": false,
+      "reservada": false,
+      "motiu": "planificació lingüística"
+    },
+    {
+      "id": "CIDO-22528418",
+      "font": "CIDO",
+      "titol": "1 plaça de Titulat superior, planificador en lingüística, a la Subdirecció General d'Estratègia i Coordinació de Polítiques Lingüístiques i de Drets Lingüístics (Barcelona)",
+      "organisme": "Generalitat de Catalunya - Departament de Política Lingüística",
+      "data_publicacio": "2026-11-18",
+      "font_publicacio": "CIDO (DOGC/BOE/BOP)",
+      "enllac": "https://cido.diba.cat/oposicions/22528418",
+      "inscripcio": "https://ovt.gencat.cat/gsitgf/AppJava/traint/renderitzar.do?reqCode=inicial&set-locale=ca_ES&idioma=ca_ES&idServei=PROVLTSOLC",
+      "sistema": "Concurs o valoració de mèrits",
+      "tipus_personal": "Funcionari interí",
+      "grup": "A1 - Grau universitari (correspondència amb llicenciatures)",
+      "borsa": false,
+      "requisits": "Estar en possessió de la titulació necessària per accedir al cos de titulació superior (subgrup A1) de la Generalitat de Catalunya, planificació lingüística",
+      "altres_requisits": "Nivell C2 de català",
+      "termini_text": "fins al 2026-11-30",
+      "data_fi": "2026-11-30",
       "termini_estimat": false,
       "reservada": false,
       "motiu": "planificació lingüística"
