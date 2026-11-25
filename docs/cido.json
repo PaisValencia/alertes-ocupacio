@@ -2,8 +2,8 @@
   "font": "cido",
   "titol": "CIDO: convocatòries de filologia i llengua a Catalunya",
   "descripcio": "Processos selectius i borses amb el termini obert (API oficial del CIDO, Diputació de Barcelona).",
-  "actualitzat": "2026-11-24T06:00:57+00:00",
-  "total": 6,
+  "actualitzat": "2026-11-25T05:57:32+00:00",
+  "total": 7,
   "convocatories": [
     {
       "id": "CIDO-22507130",
@@ -109,6 +109,27 @@
       "termini_estimat": false,
       "reservada": false,
       "motiu": "essors d'escoles oficials d'idiomes, especialitat Català"
+    },
+    {
+      "id": "CIDO-22547888",
+      "font": "CIDO",
+      "titol": "1 plaça de Tècnic superior en planificació lingüística (Barcelona)",
+      "organisme": "Generalitat de Catalunya - Departament d'Unió Europea i Acció Exterior",
+      "data_publicacio": "2026-11-23",
+      "font_publicacio": "CIDO (DOGC/BOE/BOP)",
+      "enllac": "https://cido.diba.cat/oposicions/22547888",
+      "inscripcio": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3CeUOw7TvEOMBv9yU2dv7MeX3iLn0MhGgTxFZVbzrn5UMjBPTllMQVM2MjZROVZINFBXVk0zM0w0RyQlQCN0PWcu",
+      "sistema": "Concurs o valoració de mèrits",
+      "tipus_personal": "Funcionari interí",
+      "grup": "A1 - Grau universitari (correspondència amb llicenciatures)",
+      "borsa": false,
+      "requisits": "Vegeu les bases",
+      "altres_requisits": "Nivell C2 de català",
+      "termini_text": "fins al 2026-12-03",
+      "data_fi": "2026-12-03",
+      "termini_estimat": false,
+      "reservada": false,
+      "motiu": "planificació lingüística"
     },
     {
       "id": "CIDO-21315857",
