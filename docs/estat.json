@@ -1,10 +1,10 @@
 {
-  "actualitzat": "2026-11-25T05:57:16+00:00",
+  "actualitzat": "2026-11-26T06:03:16+00:00",
   "fonts": {
     "cido": {
       "nom": "CIDO, Catalunya (API oficial)",
       "ok": true,
-      "total": 7,
+      "total": 9,
       "error": null
     },
     "boe": {
